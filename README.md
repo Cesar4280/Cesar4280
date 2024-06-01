@@ -13,7 +13,7 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 
 ## *Proyectos Destacados* 🌟
 - [![CALCULDORA DEL IMC](https://img.shields.io/badge/CALCULDORA%20DEL%20IMC-grey?style=for-the-badge&logo=javascript)](https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal)
-- [![PREVIEW]](https://img.shields.io/badge/PREVISUALIZAR-20B2AA?style=for-the-badge)](https://body-mass-corporal.netlify.app/)
+- [![PREVIEW](https://img.shields.io/badge/PREVISUALIZAR-20B2AA?style=for-the-badge)](https://body-mass-corporal.netlify.app/)
 
 
 
