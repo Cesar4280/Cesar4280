@@ -13,4 +13,4 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 
 ## *Conéctate conmigo* 🌐
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
-[![Gmail](https://img.shields.io/badge/gmail-E61919?style=for-the-badge&logo=gmail&logoColor=white)](cesarjavierfajardoortiz@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-EC5353?style=for-the-badge&logo=gmail&logoColor=white)](cesarjavierfajardoortiz@gmail.com)
