@@ -12,13 +12,12 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 - **Deployment:** Netlify
 
 ## *Proyectos Destacados* 🌟
-- [MIT](https://choosealicense.com/licenses/mit/)
-- [Calculdora del IMC Con JS]([https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal])
-- [Tres En Raya Con Bootstrap]:([https://github.com/Cesar4280/tic-tac-toe])(https://tic-tac-toe-vanilla-app.netlify.app/)
+- **[Calculdora del IMC Con JS]:**(https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal)
+- **[Tres En Raya Con Bootstrap]:**(https://github.com/Cesar4280/tic-tac-toe)
 - [Tres En Raya Con React]:([https://github.com/Cesar4280/dev/tree/main/tic-tac-toe](https://tic-tac-toe-by-cesar4280.netlify.app/)
 - [Pagina De Pizzeria con React]:([https://github.com/Cesar4280/pizzeria](https://cfajardo.netlify.app/)
 - [![**COLSUBASTA API RESTFULL CON EXPRESS**](https://github.com/Cesar4280/canadop-express-restfull-api)]
-- [![**CANADOP API RESTFULL CON EXPRESS**](https://github.com/Cesar4280/canadop-express-restfull-api)](https://body-mass-corporal.netlify.app/)
+- [![**CANADOP API RESTFULL CON EXPRESS**](https://github.com/Cesar4280/canadop-express-restfull-api)]
 
 ## *Conéctate conmigo* 🌐
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
