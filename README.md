@@ -12,7 +12,7 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 - **Deployment:** Netlify
 
 ## *Proyectos Destacados* 🌟
-- [![CALCULDORA DEL IMC CON JS](https://img.shields.io/badge/javascript-FFD569?style=for-the-badge&logo=javascript&logoColor=gray)](https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal)
+- [![s](https://img.shields.io/badge/javascript-FFD569?style=for-the-badge&logo=javascript&logoColor=gray)](https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal)
 - [Calculdora del IMC Con JS](https://github.com/Cesar4280/steam-academy/tree/main/body_mass_corporal)
 - [Tres En Raya Con Bootstrap](https://github.com/Cesar4280/tic-tac-toe)
 - [Tres En Raya Con React]:([https://github.com/Cesar4280/dev/tree/main/tic-tac-toe](https://tic-tac-toe-by-cesar4280.netlify.app/)
