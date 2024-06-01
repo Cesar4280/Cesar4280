@@ -17,7 +17,7 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 - [![TRIQUI](https://img.shields.io/badge/TRIQUI-blue?style=for-the-badge&logo=react)](https://github.com/Cesar4280/dev/tree/main/tic-tac-toe) [![PREVIEW](https://img.shields.io/badge/PREVISUALIZAR-FFD569?style=for-the-badge)](https://tic-tac-toe-by-cesar4280.netlify.app/)
 - [![CLON PAGINA SALVATORE](https://img.shields.io/badge/CLON%20PAGINA%20SALVATORE-blue?style=for-the-badge&logo=react)](https://github.com/Cesar4280/pizzeria) [![PREVIEW](https://img.shields.io/badge/PREVISUALIZAR-FFD569?style=for-the-badge)](https://cfajardo.netlify.app/)
 - [![COLSUBASTA](https://img.shields.io/badge/COLSUBASTA%20API%20RESTFULL-grey?style=for-the-badge&logo=nodedotjs)](https://github.com/Cesar4280/canadop-express-restfull-api)
-- [![CANADOP](https://img.shields.io/badge/CANADOP%API%RESTFULL-grey?style=for-the-badge&logo=nodedotjs)](https://github.com/Cesar4280/canadop-express-restfull-api)
+- [![CANADOP](https://img.shields.io/badge/CANADOP%20API%20RESTFULL-grey?style=for-the-badge&logo=nodedotjs)](https://github.com/Cesar4280/canadop-express-restfull-api)
 
 ## *Conéctate conmigo* 🌐
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
