@@ -25,5 +25,5 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 - [![**CANADOP API RESTFULL CON EXPRESS**](https://github.com/Cesar4280/canadop-express-restfull-api)]
 
 ## *Conéctate conmigo* 🌐
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
+[![linkedin](https://img.shields.io/badge/linkedin-FFBD59?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
 [![Gmail](https://img.shields.io/badge/gmail-EC5353?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarjavierfajardoortiz@gmail.com?subject=Contactar%20con%20Cesar4280&body=Me%20gustar%C3%ADa%20que%20hicieras%20parte%20de%20mi%20equipo%20de%20trabajo)
