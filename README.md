@@ -12,5 +12,5 @@ Soy un apasionado desarrollador de software con una inclinación por aprender y 
 - **Deployment:** Netlify
 
 ## *Conéctate conmigo* 🌐
-*[LinkedIn](https://www.linkedin.com/in/cesar4280)
-*[Gmail]cesarjavierfajardoortiz@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4280)
+[![Gmail](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](cesarjavierfajardoortiz@gmail.com)
